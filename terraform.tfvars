@@ -1,0 +1,7 @@
+rgname = "avd-grp"
+location = "eastus"
+workspace = "avdws"
+prefix = "avdtf"
+hostpool = "AVDHP"
+rfc3339 = "2024-06-30T12::13Z"
+dag = "AVDDAG"
